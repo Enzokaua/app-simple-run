@@ -1,6 +1,7 @@
 # Simple Run - LLM
 
 Este projeto implementa o pêndulo de atitudes de uma LLM para tomar as melhores atitudes em um jogo run simplista, com base nos recursos que possui. Os pesos de suas habilidades são ponderados de acordo com o tipo de morte anterior, decidindo qual a melhor opção a seguir em cenário semelhante.
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
